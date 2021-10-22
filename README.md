@@ -93,7 +93,7 @@ Ninja 仅支持 qinglong 2.8.2+
    **进容器内执行以下命令**
 
    ```bash
-   git clone https://github.com/xishuai/waikiki_ninja.git /ql/ninja
+   git clone https://github.com/Serendipper-1/DG-ckTiJiao-1-1.git /ql/ninja
    cd /ql/ninja/backend
    pnpm install
    cp .env.example .env # 如有需要, 修改.env
